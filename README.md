@@ -3,7 +3,7 @@
 This project contains a simple REST API implementation in C#.
 
 ## Project Structure
-- `api.cs`: Main source file containing the API logic.
+- `api.cs`: Main source file containing API logic.
 
 ## Requirements
 - .NET SDK (Core or Framework)
@@ -23,4 +23,4 @@ This project contains a simple REST API implementation in C#.
 - Refer to `api.cs` for available endpoints and their usage.
 
 ## License
-This project is for educational purposes and does not include a specific license.
+This project is for educational purposes only.
