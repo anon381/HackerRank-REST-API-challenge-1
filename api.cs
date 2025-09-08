@@ -36,7 +36,7 @@ class Result
         }
         catch (Exception e)
         {
-            Console.WriteLine(e.Message);
+            Console.WriteLine(e.Message + "error ocured");
         }
         return totalDraws;
     }
